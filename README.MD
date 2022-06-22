@@ -8,7 +8,7 @@
 
 The purpose of this unit is to introduce you to basic CSS to style your website, so that it conforms to standard website
 designs. The purpose of this assignment is to demonstrate how CSS and HTML are used to create a layout that we can use
-for next week's assignment. There isn't much for you to do to implement this because i'm giving you all the code;
+for next week's assignment. There isn't much for you to do to implement this because I'm giving you all the code;
 however, you must read the articles posted and be able to create and maintain the F and Z layouts used in this
 assignment, which will eventually become your project for the course.
 
@@ -20,16 +20,17 @@ For this assignment you need to complete the following tasks and my tests will v
 
 1. [Base Template](base.example)
 2. [Index Template](index.example)
-3. [App Code](main_app.example)
-4. [Contact page example template](contact.example)
+3. [Contact page example template](contact.example)
+4. [App Code](main_app.example)
 5. [Picture of finished site homepage](webpage.png)
 
 ### Test Task 1 - 4 Instructions (25 Points Each):
 
 1. Put the CSS code located [here](/style.example) into static/style.css
-2. Add a [route](main_app.example) for the contact page and create a [contact page template](contact.example)
-3. Make sure the website homepage looks something like this picture [here](webpage.png)
-4. Make sure you add the code for the form button in the [index template](index.example)
+2. Add a [route](main_app.example) for the contact page and create a [contact page template example](contact.example)
+3. Make sure the website homepage looks something like this picture [here](webpage.png) by adding the
+   code [here](base.example) to base.html
+4. Make sure you add the code for the index page to get the form button from the [index template example](index.example)
 
 ## Steps to Complete the Assignment
 
@@ -40,7 +41,7 @@ For this assignment you need to complete the following tasks and my tests will v
 5. When you have completed all the assignment tasks, you will see that all the tests that I created have passed.
 6. Submit a link to your GitHub Classroom repository to the Canvas assignment i.e. the one with your GitHub ID in it
 
-### Articles to read
+### Required Readings - For real
 
 1. [Anatomy of a Web Page - Website Design Terminology](https://blog.tubikstudio.com/anatomy-of-web-page/)
 2. [F Layout vs. Z Layout](https://99designs.com/blog/tips/visual-hierarchy-landing-page-designs/)
@@ -50,7 +51,7 @@ For this assignment you need to complete the following tasks and my tests will v
 6. [Understanding Links](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
 7. [Styling Links](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links)
 
-### Articles Used to create this
+### References
 
 1. [Fixed Height Footer - flex box instructions](https://css-tricks.com/couple-takes-sticky-footer/)
 2. [Complete Guide to Flexbox Layouts](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
