@@ -12,6 +12,8 @@ for next week's assignment. There isn't much for you to do to implement this bec
 however, you must read the articles posted and be able to create and maintain the F and Z layouts used in this
 assignment, which will eventually become your project for the course.
 
+## Watch: [Assignment Video](https://youtu.be/jTadsuELj_8)
+
 ## Assignment Tasks
 
 For this assignment you need to complete the following tasks and my tests will verify that you have completed them:
