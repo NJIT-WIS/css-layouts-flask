@@ -10,3 +10,5 @@ def test_task2(client):
     assert response.status_code == 200
     response = client.get("/portfolio")
     assert response.status_code == 200
+    response = client.get("/contact")
+    assert response.status_code == 200

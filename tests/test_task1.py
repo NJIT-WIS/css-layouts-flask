@@ -14,6 +14,7 @@ def test_task1_site_folders_and_files_exist():
     assert exists(os.path.join(Config.BASE_DIR, "templates", "base.html"))
     assert exists(os.path.join(Config.BASE_DIR, "templates", "portfolio.html"))
     assert exists(os.path.join(Config.BASE_DIR, "templates", "about.html"))
+    assert exists(os.path.join(Config.BASE_DIR, "templates", "contact.html"))
     assert exists(os.path.join(Config.BASE_DIR, "static"))
     assert exists(os.path.join(Config.BASE_DIR, "static", "css"))
     assert exists(os.path.join(Config.BASE_DIR, "static", "css", "style.css"))

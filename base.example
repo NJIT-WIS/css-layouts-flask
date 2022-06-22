@@ -3,18 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <title>{{ title }}</title>
-        <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 <body>
-    <menu>
-        <li><a href="{{ url_for('index') }}">Home</a> </li>
-        <li><a href="{{ url_for('about') }}">About</a> </li>
-        <li><a href="{{ url_for('portfolio') }}">Portfolio</a> </li>
+<header>
+    <menu class="primary_nav">
+        <li><a href="{{ url_for('index') }}">Home</a></li>
+        <li><a href="{{ url_for('about') }}">About</a></li>
+        <li><a href="{{ url_for('portfolio') }}">Portfolio</a></li>
     </menu>
+</header>
     {% block main %}
     {% endblock %}
-    <div id="footer">
-        &copy; Copyright 2008 by <a href="{{ url_for('index') }}">you</a>.
-    </div>
+<footer>
+    &copy; Copyright 2022 by <a href="{{ url_for('index') }}">PUT YOUR NAME HERE</a>.
+</footer>
 </body>
+
 </html>
