@@ -8,7 +8,7 @@
 
 The purpose of this unit is to introduce you to basic CSS to style your website, so that it conforms to standard website
 designs. The purpose of this assignment is to demonstrate how CSS and HTML are used to create a layout that we can use
-for next weeks assignment. There isn't much for you to do to implement this because i'm giving you all the code;
+for next week's assignment. There isn't much for you to do to implement this because i'm giving you all the code;
 however, you must read the articles posted and be able to create and maintain the F and Z layouts used in this
 assignment, which will eventually become your project for the course.
 

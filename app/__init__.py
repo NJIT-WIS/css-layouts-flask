@@ -41,8 +41,4 @@ def create_app(test_config=None):
     def portfolio():
         return render_template("portfolio.html")
 
-    @app.route('/contact')
-    def contact():
-        return render_template("contact.html")
-
     return app
